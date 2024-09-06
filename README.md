@@ -1,6 +1,6 @@
 # About me
 
-- 🔭 I’m currently working on a new Salesforce Org and supporting ecosystem at Verdant Commercial Capital
+- 🔭 I’m currently working on DevOps Tool selection for Salesforce that will work with a non GitHub repo
 - 🌱 I’m currently learning Salesforce AI tools
 - 📫 How to reach me: mailto:lueken.brian@gmail.com
 <!-- 
