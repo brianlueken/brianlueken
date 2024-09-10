@@ -1,7 +1,8 @@
 # About me
 
 - 🔭 I’m currently working on DevOps Tool selection for Salesforce that will work with a non GitHub repo 
-- 🌱 I’m currently learning Salesforce AI tools and https://learn.microsoft.com/en-us/training/paths/microsoft-azure-architect-design-prerequisites/ 
+- :hourglass: I’m currently waiting to test on Salesforce AI tools
+- 🌱 I’m currently learning https://learn.microsoft.com/en-us/training/paths/microsoft-azure-architect-design-prerequisites/ 
 - 📫 How to reach me: mailto:lueken.brian@gmail.com
 <!-- 
 - 👯 I’m looking to collaborate on ...
