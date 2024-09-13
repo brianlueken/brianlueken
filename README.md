@@ -1,10 +1,11 @@
 # About me
 
-- 🔭 I’m currently working on DevOps Tool selection for Salesforce between Gearset and Copado 
+- :computer: Today I reconfigure everything on a new laptop to try to get back to productive work
+- 🔭 I’m currently working on DevOps Tool selection for Salesforce between Gearset and Copado
 - :hourglass: I’m currently waiting to test on Salesforce AI tools
-- 🌱 I’m currently learning https://learn.microsoft.com/en-us/training/paths/microsoft-azure-architect-design-prerequisites/ 
+- 🌱 I’m currently learning <https://learn.microsoft.com/en-us/training/paths/microsoft-azure-architect-design-prerequisites/>
 - 📫 How to reach me: mailto:lueken.brian@gmail.com
-<!-- 
+<!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
