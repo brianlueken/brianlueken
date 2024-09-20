@@ -3,8 +3,7 @@
 - 💻 Laptop is generally back up and running as needed/expected
 - 🔭 I’m currently working on DevOps Tool selection for Salesforce between Gearset and Copado (1 demo down and 1 demo scheduled)
 - ⌛ I’m currently waiting to test on Salesforce AI tools and happy I waited because I think this <https://trailhead.salesforce.com/en/credentials/aispecialist> is about to be a free certification (re: <https://www.salesforce.com/news/press-releases/2024/09/18/ai-training-opportunities/>)
-- 🌱 I’m currently learning <https://learn.microsoft.com/en-us/credentials/certifications/azure-solutions-architect/> with 5 modules left covering the following:
-  - <https://learn.microsoft.com/en-us/training/paths/design-data-storage-solutions/>
+- 🌱 I’m currently learning <https://learn.microsoft.com/en-us/credentials/certifications/azure-solutions-architect/> with 4 modules left covering:
   - <https://learn.microsoft.com/en-us/training/paths/design-infranstructure-solutions/>
 - 📫 How to reach me: mailto:lueken.brian@gmail.com
 <!--
